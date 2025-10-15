@@ -2,4 +2,4 @@
 
 The weak formulation is incorporated into the mSINDy
 
-![Image](https://github.com/user-attachments/assets/064ec178-ea61-40ce-9046-5c577d75d3f7)
+<img width="1200" height="1057" alt="Image" src="https://github.com/user-attachments/assets/3be65d2b-abdd-41c5-8701-a053cc50dd00" />
